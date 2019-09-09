@@ -1,3 +1,4 @@
 #git命令提交暂存区命令
  git add git20190909.txt 第一次提交版
  git add git20190909.txt 第二次提交版
+ git pull 下载远程仓库资源
