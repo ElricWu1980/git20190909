@@ -1,2 +1,3 @@
 #git命令提交暂存区命令
- git add 20190909.txt
+ git add git20190909.txt 第一次提交版
+ git add git20190909.txt 第二次提交版
